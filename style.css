@@ -1,0 +1,56 @@
+section, nav {
+  padding: 20px 100px !important;
+}
+.card {
+  padding: 50px;
+  margin: 10px;
+}
+#brand-name {
+  font-family: 'Brush Script MT', cursive;
+}
+
+.section-body {
+  display: flex;
+}
+
+#pink {
+  background-color: #d957d9;
+  color: #000;
+}
+
+#purple {
+    background-color: #A020F0;
+  }
+
+#red {
+  background-color: #da072c;
+  color: #fff;
+}
+
+.font-label {
+    font-size: 1.5rem;
+}
+
+.regular {
+  font-style: normal;
+}
+  
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nunito-sans {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.tomorrow {
+    font-family: 'Tomorrow', sans-serif;
+}
+
+.times {
+  font-family: 'Times New Roman', Times, serif;
+}
